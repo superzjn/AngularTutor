@@ -1,32 +1,35 @@
-#nav {
-  display: inline-block;
-  vertical-align: top;
-  width : 25%;
+.bkg {
+ background-color: green;
+height: 900px;
 }
+
 
 .container {
-  margin: 20px auto;
-  border-style: solid;
-  border-width: 5px;
-  border-color: deeppink;
+  background-color: white;
+  position: relative;
+  margin-top: 50%;
+  width: 400px;
+  height: 300px;
 }
 
-.column {
-  margin: 20px auto;
-  display: inline-block;
-  vertical-align: top;
-  width : 75%;
-  border-style: solid;
-  border-width: 5px;
-  border-color: lightblue;
+.box {
+  position: absolute;
+  margin-left: 62px;
+  margin-top: 70px;
 }
 
-section {
-  padding: 10px;
-  border-style: solid;
-  border-width: 2px;
-  border-color: orange;
-  word-wrap: break-word;
+.input{
+  width: 250px;
+  height: 30px;
+  margin-top: 10px;
+  background-color: lightgray;
+}
+
+.btn-primary{
+background-color: green;
+padding: 10px 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /*@media screen and (min-width: 600px) {*/
