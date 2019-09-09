@@ -14,8 +14,8 @@ height: 900px;
 
 .box {
   position: absolute;
-  margin-left: 62px;
-  margin-top: 70px;
+  margin-top: 15%;
+  margin-left: 15%;
 }
 
 .input{
