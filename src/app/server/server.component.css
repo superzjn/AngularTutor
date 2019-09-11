@@ -6,3 +6,31 @@
   width: 300px;
   border-color: cornflowerblue;
 }
+
+h1 {
+  position: relative;
+  margin-left: 40%;
+}
+
+
+.container {
+  position: relative;
+  margin-top: 25%;
+}
+.form-group.row {
+  /*border: solid;*/
+}
+
+.btn-primary {
+  margin: 0 0 0 20px;
+}
+
+.col-md {
+  /*border: solid;*/
+}
+
+.buttons {
+  display: inline-block;
+  position: relative;
+  margin-left: 25%;
+}
